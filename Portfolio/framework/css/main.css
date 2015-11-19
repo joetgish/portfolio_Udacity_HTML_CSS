@@ -9,6 +9,11 @@
     box-sizing: border-box;
 }
 
+@media only screen and (max-width: 600px)
+    p{
+        background-color: blue;
+    }
+
 h1{
 	color:blue;
 }
